@@ -1,2 +1,2 @@
-# psilantrolab-manual
-PsiLANTRO Lab Manual and Code of Conduct
+# Garza-lab-manual
+Neuroimaging &amp; Psychiatry Lab (GarzaLab) Manual

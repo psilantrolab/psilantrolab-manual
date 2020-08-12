@@ -1,0 +1,7 @@
+book_filename: "PsiLANTRO-lab-manual"
+chapter_name: "Chapter "
+repo: https://github.com/PsilantroLab/psilantrolab-manual
+output_dir: docs
+rmd_files: ["index.Rmd", "01-intro.Rmd","02-overview.Rmd", "03-comm.Rmd", "04-science.Rmd","05-read.Rmd"]
+clean: [packages.bib, bookdown.bbl]
+new_session: yes
