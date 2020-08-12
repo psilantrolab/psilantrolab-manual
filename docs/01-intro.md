@@ -10,5 +10,5 @@ ALL lab members will be expected to read this lab manual. It may update with tim
 
 This manual was inspired by other similar works for example the [Grange-Lab manual](https://bookdown.org/JimGrange/Grange-lab-manual/intro.html). This manual is licence under a [CC Attribution 4.0 Licence](https://creativecommons.org/licenses/by/4.0/).
 
-This is our website [PsiLANTRO Lab](https://garzalab.github.io/). Make sure to send me your picture to add you as a student on the website.
+This is our website [PsiLANTRO Lab](https://psilantrolab.github.io/). Make sure to send me your picture to add you as a student on the website.
 
