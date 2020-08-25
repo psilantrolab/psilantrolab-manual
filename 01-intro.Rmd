@@ -18,6 +18,7 @@ New students should first do the following:
 * Download [Slack](https://slack.com/intl/es-mx/)
 * Get a free [Asana](https://asana.com) account
 * Let me (Eduardo) know when you do this so I can add you to the lab accounts
+* Ask me for a C13 Cluster account and a LAVIS account, sending me your full name and program.
 
 Our [Wiki](https://github.com/psilantrolab/Documentation/wiki) can help you with tutorials and documentation for tools we use at the lab.
 
