@@ -12,3 +12,18 @@ This manual was inspired by other similar works for example the [Grange-Lab manu
 
 This is our website [PsiLANTRO Lab](https://psilantrolab.github.io/). Make sure to send me your picture to add you as a student on the website.
 
+New students should first do the following:
+
+* Get a [Gmail](https://mail.google.com) account.
+* Get a [Github](https://github.com) account.
+* Download [Slack](https://slack.com/intl/es-mx/).
+* Get a free [Asana](https://asana.com) account.
+* Get an [Open Science Framework](https://osf.io) account.
+* Let me (Eduardo) know when you do this so I can add you to the lab accounts.
+* Ask me for a C13 Cluster account and a LAVIS account, sending me your full name and program.
+
+
+Our [Wiki](https://github.com/psilantrolab/Documentation/wiki) can help you with tutorials and documentation for tools we use at the lab.
+
+
+
