@@ -4,13 +4,15 @@
 
 > “We conduct rigurous basic multi-species research focused on finding behavioral, neuroimaging, and other biological biomarkers in substance use disorders and other neuropsychiatric disorders, to use this knowledge to tackle applied and clinical questions, such as researching new treatments like neuromodulation.”
 
-This mission statement guides all work conducted in the lab, from BSc to independent post-doctoral students. A mission statement is important as it allows the lab to focus our efforts on a particular direction. Neuroscience is a large discipline, and without focus our work will have less impact.
+This mission statement guides all work conducted in the lab, from bachelor to independent post-doctoral students. A mission statement is important as it allows the lab to focus our efforts on a particular direction. Neuroscience is a large discipline, and without focus our work will have less impact.
 
 Individual projects won’t (necessarily) address all aspects of this mission statement (except the rigorous part!), but the work of the lab as a whole will. Here I unpack some key terms in this mission statement:
 
 * **Rigorous:** All work conducted in the lab should be rigorously-conducted. We take our science very seriously, and we ensure that the work we conduct is of the highest quality. As part of this rigour, we ensure that our studies are addressing important questions.
 
 * **Basic Research:** Science typically falls into one of two categories: Fundamental (or “basic” / “pure”) research, and Applied research. Fundamental research aims to improve scientific theories, generate new ideas, and discover new empirical phenomena, without the promise of an immediate application of this knowledge. It is often referred to as the pursuit of knowledge for its own sake. An important part of our research strategy is to conduct fundamental research into neuropsychiatric disorders. We conduct this fundamental research to develop a better understanding of substance use disorders and other neuropsychiatric disorders.
+
+* **Translational:** This means that the work we do in animals and humans we want it to be a bridge to clinical use and population treatments.
 
 * **Multi-species:** To create improvements in diagnosis and treatment of substance use and neuropsychiatric disorders, the basic and traslational study working with several species is fundamental and necessary. We work with mice, rats, non-human primates and humans ethically and respectfully.  
 
@@ -28,7 +30,7 @@ Individual projects won’t (necessarily) address all aspects of this mission st
 
 The lab holds itself to several core values:
 
-* **Ambition:** We are an ambitious lab, and I expect all members to show ambition in their work. I will help you to make sure your project is ambitiously relevant to your current stage (i.e., MSc projects will be more ambitious than BSc projects). Note that this also refers to personal ambition, and is independent of your current ability: I want you to be the best “you” that you can be.
+* **Ambition:** We are an ambitious lab, and I expect all members to show ambition in their work. I will help you to make sure your project is ambitiously relevant to your current stage (i.e., MSc projects will be more ambitious than bachelor projects). Note that this also refers to personal ambition, and is independent of your current ability: I want you to be the best “you” that you can be.
 * **Commitment:** Good science requires commitment. You should be committed to your project by having clear goals which are SMART: specific, measurable, attainable, relevant, and time-bound.
 * **Enthusiasm:** Hard work is difficult without enthusiasm. It is therefore important that you work on a project that is both of value to the lab’s mission and of interest to you.
 * **Excellence:** We strive for excellence in all that we do. No half-done stuff.
@@ -42,9 +44,11 @@ The lab holds itself to several core values:
 
 We expect each other to:
 
+* Punctuality.
+* Make a safe and fun work environment.
 * Push the envelope of scientific discovery & personal excellence.
-* Do work we are proud of individually and as a group.
-* Do work that others will care about.
+* Do work we are proud of, individually and as a group.
+* Do good science.
 * Double-check our work. Being a little obsessive is essential to good science.
 * Be supportive of our lab-mates. We are a team.
 * Work independently when we can, but ask for help when we need it.
@@ -52,7 +56,8 @@ We expect each other to:
 * Share our knowledge. Mentorship takes many forms.
 * Respect each other’s strengths, weaknesses, and differences. Diversity is to be celebrated.
 * Respect all types of people and beliefs.
-* Be able to work directly or indirectly with multiple species, mainly: mice, rats, non-human primates and humans.
+* Zero tolerance to any gender violence.
+* Follow animal research ethical rules.
 
 ### Principal Investigator
 
@@ -60,11 +65,12 @@ As well as the above, you can expect me to:
 
 * Have a vision for where the lab is going.
 * Obtain the funding to support the science, and the people (where appropriate), in the lab.
-* Meet with you regularly to discuss your research projects. The definition of “regularly” may change over time or over the course of a project, but unless we agree otherwise the expectation is that this will be once per week.
+* Meet with you regularly to discuss your research projects. The definition of “regularly” may change over time or over the course of a project, but unless we agree otherwise the expectation is that this will be once per month.
 * Support you in your career development, regardless of your current stage. This includes discussing professional development, writing letters of recommendation, and promoting your work in conference presentations I attend.
 * Care about you as a person and not just as a scientist.
-* Obsess over many things related to your project & its eventual dissemination, from font choice, punctuation / grammar, and data visualisation. It will drive you nuts.
+* Obsess over many things related to your project & its eventual dissemination, from font choice, punctuation / grammar, and data visualization. 
 * Hold high expectations of you: These expectations are there because I believe you can reach them.
+* Recommendation letters will be written if I want to recommend you.
 
 ### Bachelor Students
 * Develop a project that fits with the mission of the lab. If you are unsure on what project you should work on, I can provide a project for you. This will not affect your final grade.
@@ -107,4 +113,4 @@ As well as the above, I expect PhD students to:
 * Consider contributing to teaching where possible, but especially if you wish to pursue an academic career post-PhD. Some options could be:
     * Lead seminars
     * Teach in my courses
-    * Co-supervise Bachelor and Master student projects.
+    * Supervise Bachelor student projects or Servicio Social.

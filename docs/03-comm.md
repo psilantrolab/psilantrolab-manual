@@ -1,8 +1,8 @@
 # Communication
 
-I am usually busier than I would like to be, and as a result have less time for talking to people than I would like. However, you (lab members) are one of the most important parts of my job, and I need your help to stay organised and involved in the things that I need to be involved in. Some general guidelines:
+I am usually busier than I would like to be, and as a result have less time for talking to people than I would like. However, you (lab members) are one of the most important parts of my job, and I need your help to stay organized and involved in the things that I need to be involved in. Some general guidelines:
 
-1. **Be proactive.** Tell me what you need. This includes coming to knock on my door, emailing me, setting up a meeting, or catching me in the corridor.
+1. **Be proactive.** Tell me what you need. This includes coming to knock on my door, emailing me, or setting up a meeting.
 
 2. **Write things down** and remind me what we’ve talked about. I would love to remember every small detail that we decided when we met last week, but this doesn’t always happen. Don’t hesitate to bring me up to speed when we meet. Even if I already remember what we are talking about, a couple of introductory topic sentences will help us both get in the right frame of mind. Be sure to take notes of our meetings.
 
@@ -14,9 +14,7 @@ I am usually busier than I would like to be, and as a result have less time for 
 
 Metaphorically, my door is always open, but sometimes my door is physically closed. If this is the case:
 
-* If we have a meeting scheduled for that time, please do knock even if I am in a meeting. Sometimes I will continue a meeting if it seems that my next appointment has not turned up, so please do let me know you have arrived.
-    * If I don't answer the door it means I cannot open. Send me a message instead.
-* If we do not have a meeting scheduled, consider instead dropping me an email. Of course, if it’s an emergency then please knock anyway.
+* Check the color, green means Enter, Yellow means I'm busy, Red means I'm not there.
 
 ## Email
 
@@ -26,4 +24,4 @@ Now that the lab has moved to Slack for team communication, I tend to rely less 
 Email me if you need a meeting. I'll check my schedule and book you.
 
 ## Lab meetings
-We meet collectively once each week to talk about science together, to discuss common issues, and to make sure we have a chance to discuss our individual research projects. Regular attendance is expected, as is active-participation (presenting, asking questions, etc).
+We meet collectively once each week to talk about science together, to discuss common issues, and to make sure we have a chance to discuss our individual research projects. Regular attendance is expected, as is active-participation (presenting, asking questions, etc), also the Seminar.

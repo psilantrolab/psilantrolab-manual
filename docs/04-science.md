@@ -5,9 +5,7 @@
 Firstly, we are members of several consortiums:
 
 * [ENIGMA-Addiction World-wide Consortium](https://www.enigmaaddictionconsortium.com/). 9,000 SUD scans are counting.
-* [International Networks of tES /TMS Trials for Addiction Medicine - INTAM](https://twitter.com/INTAM_Network). New network of researchers.
 * [PRIMatE Data Exchange (PRIME-DE) Consortium](http://fcon_1000.projects.nitrc.org/indi/indiPRIME.html). Non-human primate neuroimaging research.
-* Mexico Borderline Personality Disorder (BDP) Research Group.
 
 Check the websites and perhaps you would want to work in any of those efforts.
 
@@ -79,3 +77,5 @@ It is also important to acknowledge the rest of the people that had something to
 The student is usually first author when they do most of the work, including writing the first draft. But this will differ depending on the circumstances.
 
 As principle investigator of the lab, I expect to be an author on all papers produced by lab members. But please note that I do not get automatic authorship; rather, my expectation is that you should involve me in your work to such a degree that I have earned authorship on the paper.
+
+In your Thesis, your posters and papers, you should always remember to Acknowledge your funding, and the technicians who helped with the work. All of them.
